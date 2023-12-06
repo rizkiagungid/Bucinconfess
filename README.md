@@ -13,9 +13,6 @@ Rela NgeBucin Demi dapetin kamu 🥴
 ### Deploy dengan Vercel
 1. Daftar Akun Vercel Disini https://vercel.com/signup
 2. Klik Link ini https://vercel.com/new/git/third-party
-<p align="left">
-   <img src="https://i.ibb.co/XX19Ryp/Screenshot-114.png" alt="Vercel app">
-</p>
 
 ## Join my universe [Tiktok](https://www.tiktok.com/@rizkiagungid), [Instagram](https://www.instagram.com/rizkiagung.id) and [Youtube](https://www.youtube.com/c/rizkiagungsentosa)
 
