@@ -1,4 +1,4 @@
-## Script Bucin 🥴
+## Script Bucin buat nembak dia🥴
 Rizkiagungid - 2023
 ```
 Rela NgeBucin Demi dapetin kamu 🥴
@@ -19,3 +19,11 @@ Rela NgeBucin Demi dapetin kamu 🥴
 <p align="left">
    <img src="https://i.ibb.co/XX19Ryp/Screenshot-114.png" alt="Vercel app">
 </p>
+
+## Join my universe [Tiktok](https://www.tiktok.com/@rizkiagungid), [Instagram](https://www.instagram.com/rizkiagung.id) and [Youtube](https://www.youtube.com/c/rizkiagungsentosa)
+
+![Preview](/ss/1.png)
+
+
+## Donate
+<a href="https://saweria.co/rizkiagungid" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For rizkiagungid" height="41" width="174"></a>
